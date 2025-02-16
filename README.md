@@ -59,8 +59,6 @@ cd frontend
 npm start
 ```
 
-## 📸 Screenshots
-(Add relevant screenshots here)
 
 ## 🔥 Contributing
 Feel free to contribute by submitting pull requests or reporting issues!
