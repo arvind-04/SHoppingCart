@@ -16,8 +16,12 @@ QCart is a full-stack e-commerce web application built using the MERN stack (Mon
 - **Database:** MongoDB
 - **Authentication:** JWT (JSON Web Token)
 
+
 ## 📽 Demo Video
 Watch the demo here: [QCart Demo](https://drive.google.com/file/d/1QPvTgw-pOo6BQOV71i2QuRAgb9opNpkO/view?usp=share_link)
+
+## FrontEnd : https://frontend-cart-alpha.vercel.app
+## BackEnd : https://backend-cart-1.onrender.com
 
 ## 📂 Installation & Setup
 Follow these steps to run the project locally:
